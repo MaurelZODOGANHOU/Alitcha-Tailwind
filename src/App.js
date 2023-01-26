@@ -1,4 +1,7 @@
 import Bouton from "./components/button/button";
+import Bouton2 from "./components/button/button2";
+import Bouton3 from "./components/button/button3";
+
 import React, { useState } from "react";
 import "./index.css"
 
@@ -9,7 +12,13 @@ function App() {
         Welcome on Alitcha Tailwind
       </div>
     </div>*/
-    <Bouton/>
+    <div>
+
+    <Bouton/> <br/><br/>
+    
+    <Bouton2/> <br/><br/>
+    <Bouton3/> <br/><br/>
+    </div>
   );
 }
 
