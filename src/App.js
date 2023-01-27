@@ -4,6 +4,7 @@ import Bouton3 from "./components/button/button3";
 
 import React, { useState } from "react";
 import "./index.css"
+import Bouton4 from "./components/button/button4";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
     
     <Bouton2/> <br/><br/>
     <Bouton3/> <br/><br/>
+    <Bouton4/> <br/><br/>
     </div>
   );
 }
