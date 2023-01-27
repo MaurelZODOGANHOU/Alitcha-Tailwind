@@ -10,11 +10,11 @@ const Bouton5 = () => {
                     <div class=" flex items-center  justify-between p-4  rounded-lg bg-white shadow-indigo-50 shadow-md">
                         <div>
                             <h2 class="text-gray-900 text-lg font-bold">Prix Total</h2>
-                            <h3 class="mt-2 text-xl font-bold text-yellow-500 text-left">+ 150.000 FCFA</h3>
-                            <p class="text-sm font-semibold text-gray-400">Dernière transaction</p>
-                            <button class="text-sm mt-6 px-4 py-2 bg-yellow-400 text-white rounded-lg  tracking-wider hover:bg-yellow-300 outline-none">Ajouter à ma carte</button>
+                            <h3 class="mt-2 text-xl font-bold text-black text-left">+ 150.000 FCFA</h3>
+                            <p class="text-sm font-semibold text-gray-500">Dernière transaction</p>
+                            <button class="text-sm mt-6 px-4 py-2 bg-orange-600 text-white rounded-lg  tracking-wider hover:bg-black outline-none ">Ajouter à ma carte</button>
                         </div>
-                        <div class="bg-gradient-to-tr from-yellow-500 to-yellow-400 w-32 h-32  rounded-full shadow-2xl shadow-yellow-400 border-white  border-dashed border-2  flex justify-center items-center ">
+                        <div class="bg-gradient-to-tr from-orange-600 to-orange-600 w-32 h-32  rounded-full shadow-2xl shadow-black border-gray-500  border-dashed border-5  flex justify-center items-center ">
                             <div>
                                 <h1 class="text-white text-2xl">ALITCHA</h1>
                             </div>
