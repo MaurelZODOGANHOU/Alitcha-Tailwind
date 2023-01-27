@@ -6,6 +6,7 @@ import React from "react";
 import "./index.css"
 import Bouton4 from "./components/button/button4";
 import Bouton5 from "./components/button/button5";
+import Bouton6 from "./components/button/button6";
 
 function App() {
   return (
@@ -16,12 +17,12 @@ function App() {
     </div>*/
     <div>
 
-    <Bouton/> <br/><br/>
-    
-    <Bouton2/> <br/><br/>
-    <Bouton3/> <br/><br/>
-    <Bouton4/> <br/><br/>
-    <Bouton5/> <br/><br/>
+    <Bouton/> 
+    <Bouton2/> 
+    <Bouton3/> 
+    <Bouton4/> 
+    <Bouton5/> 
+    <Bouton6/> <br/>
     </div>
   );
 }
