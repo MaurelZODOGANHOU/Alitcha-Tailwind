@@ -7,6 +7,7 @@ import "./index.css"
 import Bouton4 from "./components/button/button4";
 import Bouton5 from "./components/button/button5";
 import Bouton6 from "./components/button/button6";
+import Bouton7 from "./components/button/button7";
 
 function App() {
   return (
@@ -16,13 +17,15 @@ function App() {
       </div>
     </div>*/
     <div>
-
-    <Bouton/> 
-    <Bouton2/> 
-    <Bouton3/> 
-    <Bouton4/> 
-    <Bouton5/> 
-    <Bouton6/> <br/>
+      <center>
+        <Bouton/> 
+        <Bouton2/> 
+        <Bouton3/> 
+        <Bouton4/> 
+        <Bouton5/> 
+        <Bouton6/> 
+        <br/> <Bouton7/>
+      </center>  
     </div>
   );
 }
