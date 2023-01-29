@@ -18,17 +18,7 @@ function App() {
       </div>
     </div>*/
     <div>
-      <center>
-        {/* <Bouton/> 
-        <Bouton2/> 
-        <Bouton3/> 
-        <Bouton4/> 
-        <Bouton5/> 
-        <Bouton6/>  
-        <br/> <Bouton7/> */}
-        <Bouton4/>
-
-      </center>  
+      <Bouton6/>
     </div>
   );
 }
